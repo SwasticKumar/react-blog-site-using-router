@@ -1,0 +1,67 @@
+.collapse {
+    margin-left: 380px;
+    font-size: larger;
+    font-weight: 500;
+  }
+  
+  /* p {
+    color: rgb(78, 78, 78);
+    font-weight: 600;
+    font-size: 20px;
+    margin-right: 50px;
+    margin-top: 10px;
+  } */
+  
+  li:hover {
+    border-bottom: 2px solid rgb(14, 158, 14);
+  }
+  
+  li:checked {
+    border-bottom: 2px solid rgb(14, 158, 14);
+    content: "";
+    bottom: 0;
+  }
+  
+  .col {
+    margin-bottom: 40px;
+  }
+  
+  .card-title,
+  .card-text {
+    text-align: left;
+  }
+  
+  .card-title {
+    font-size: larger;
+  }
+  .card-text {
+    font-size: large;
+    font-weight: 400;
+    color: rgb(126, 125, 125);
+  }
+  .card {
+    box-sizing: border-box;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+    border: 0 solid #818a91;
+    max-width: 353px;
+    min-width: 353px;
+  }
+   
+  .card:hover {
+    box-shadow: 0 0 50px 0 #e327433a;
+  }
+  
+  .read {
+    text-align: left;
+    color: rgb(14, 146, 14);
+    font-size: medium;
+  }
+  
+  .card-img-top {
+    min-height: 193.25px;
+    max-height: 193.25px;
+  }
+  
+  .container {
+    width: 95%;
+  }
