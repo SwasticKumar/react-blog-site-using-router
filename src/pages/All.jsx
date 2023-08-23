@@ -36,11 +36,50 @@ const cardData = [
     comments: "No Comments"
   },
   {
+    title: "Top 10 Ethical Hacking Books for Beginner to Advanced",
+    image: "./image/cyber/hack.png",
+    link: "https://www.guvi.in/blog/best-ethical-hacking-books/",
+    description: "Did you know that according to the University of Maryland hackers attack every 39 seconds",
+    date: "21 November 2022",
+    comments: "No Comments"
+  },
+  {
+    title: "Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
+    image: "./image/all/data1.png",
+    link: "https://www.guvi.in/blog/coding-for-cybersecurity/",
+    description: "Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well,",
+    date: "22 June 2022",
+    comments: "No Comments"
+  },
+  {
+    title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
+    image: "./image/cyber/cyber-hack.png",
+    link: "https://www.guvi.in/blog/difference-between-cybersecurity-and-ethical-hacking/",
+    description: "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
+    date: "27 December 2022",
+    comments: "No Comments"
+  },
+  {
     title: "10 Best Data Science Online Courses for Beginners | 2023",
     image: "./image/all/data1.png",
     link: "https://www.guvi.in/blog/best-data-science-courses-for-beginners/",
     description: "In today’s rapidly evolving digital landscape, Data Science has emerged as one of the most",
     date: "14 August 2023",
+    comments: "No Comments"
+  },
+  {
+    title: "Top Full Stack Development Webinars and Workshops",
+    image: "./image/fullstack/webinar.png",
+    description: "Are you keen to elevate your web development skills and master the art of Full",
+    date: "29 July 2023",
+    comments: "No Comments"
+  },
+  {
+    title: "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
+    image: "./image/cyber/bug.png",
+    link: "https://www.guvi.in/blog/what-is-cybersecurity/",
+    description: "Look around today, you will witness that we are more reliant on technology and devices",
+    date: "20 December 2022",
     comments: "No Comments"
   },
   {
@@ -50,7 +89,65 @@ const cardData = [
     description: "Have you ever wondered what it takes to create captivating designs that leave users delighted",
     date: "11 August 2023",
     comments: "No Comments"
-  }
+  },
+  {
+    title: "8 Different Types of Cybersecurity and Threats Involved",
+    image: "./image/cyber/sec.png",
+    link: "https://www.guvi.in/blog/types-of-cybersecurity/",
+    description: "Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from",
+    date: "9 November 2022",
+    comments: "No Comments"
+  },
+  {
+    title: "Top 7 Cyber Security Attacks in Real Life",
+    image: "./image/cyber/team.png",
+    link: "https://www.guvi.in/blog/cyber-security-attacks-in-real-life/",
+    description: "Cyber security attacks are the type of actions that are designed to destroy, steal, modify,",
+    date: "10 June 2022",
+    comments: "No Comments"
+  },
+  {
+    title: "7 Must-Watch Data Science Focused YouTube Channels for Effective Learning",
+    image: "./image/datascience/youtube.png",
+    link: "https://www.guvi.in/blog/best-data-science-courses-for-beginners/",
+    description: "Data science has become one of the most sought-after skills in the current job market.",
+    date: "5 August 2023",
+    comments: "No Comments"
+  },
+  {
+    title: "How Long Would It Take to Learn Data Science?",
+    image: "./image/fullstack/fullstack1.png",
+    link: "https://www.guvi.in/blog/how-long-would-it-take-to-learn-data-science/",
+    description: "Have you ever wondered how much time it takes to learn data science? It’s an",
+    date: "5 August 2023",
+    comments: "No Comments"
+  },
+  {
+    title:
+      "Career Opportunities in Digital Marketing | Digital Marketing Career",
+    image:"./image/fullstack/dm.png",
+    link: "https://www.guvi.in/blog/career-opportunities-in-digital-marketing/",
+    description:
+      "As we move forward in today’s digital age, the need for businesses to engage with",
+    date: "16 August 2023",
+    comments: "No Comments",
+  },
+  {
+    title: "10 Best Data Science Online Courses for Beginners | 2023",
+    image: "./image/datascience/data.png",
+    link: "https://www.guvi.in/blog/best-data-science-courses-for-beginners/",
+    description: "In today’s rapidly evolving digital landscape, Data Science has emerged as one of the most",
+    date: "14 August 2023",
+    comments: "No Comments"
+  },
+  {
+    title: "Data Science Webinars and Workshops",
+    image: "./image/datascience/webiners.png",
+    link: "https://www.guvi.in/blog/data-science-webinars-and-workshops/",
+    description: "In today’s world, it’s becoming increasingly important to be knowledgeable in the field of data",
+    date: "9 August 2023",
+    comments: "No Comments"
+  },
 ];
 
 export default function All() {
